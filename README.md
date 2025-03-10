@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @didier56870
 - 👀 I’m interested in devices for diving
-- 🌱 I’m currently learning ms5837 with oled and esp32
+- 🌱 I’m currently learning JSN-SR04T-2.0 with oled and esp32
 - 💞️ I’m looking to collaborate on sonar device (ultrasonic for divers)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
